@@ -121,7 +121,7 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p>If you'd like to learn more about our services or request a quote, feel free to reach out.</p>
-    <p><strong>Phone:</strong> +27 64 186 5274‬</p>
+    <p><strong>Phone:</strong> +27 64 186 5274 ‬</p>
     <p><strong>Email:</strong> info@omholdings.co.za</p>
     <p><strong>Address:</strong> Rustenburg, South Africa</p>
     <p><strong>Business Hours:</strong> Mon – Fri: 07:00 – 16:00</p>
