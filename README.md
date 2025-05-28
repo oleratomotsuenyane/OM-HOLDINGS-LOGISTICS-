@@ -112,9 +112,9 @@
     <p>Take a look at some of our work and equipment in action.</p>
     <div class="gallery">
       <img src="image1.jpg" alt="Project 1">
-      <img src="image2.jpg" alt="Logistics fleet">
-      <img src="image3.jpg" alt="Earth moving equipment">
-      <img src="image4.jpg" alt="Construction site">
+      <img src="image2.jpg" alt="Logistics Fleet">
+      <img src="image3.jpg" alt="Earth Moving Equipment">
+      <img src="image4.jpg" alt="Construction Site">
     </div>
   </section>
 
